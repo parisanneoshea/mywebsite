@@ -1,0 +1,20 @@
+.heading {
+	text-align: center;
+}
+#title {
+	background-color: #E5E4E2;
+	font-family: Arial;
+}
+
+#Ladies {
+	text-align: left;
+}
+#Gentlemen {
+	text-align: right;
+}
+#login {
+	border-style: solid;
+}
+.afterheading {
+	text-align: center;
+}
