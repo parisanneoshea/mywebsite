@@ -1,20 +1,31 @@
 .heading {
-	text-align: center;
-}
-#title {
-	background-color: #E5E4E2;
-	font-family: Arial;
+	text-align: left;	
 }
 
 #Ladies {
-	text-align: left;
+	text-align: center;
 }
 #Gentlemen {
-	text-align: right;
-}
-#login {
-	border-style: solid;
+	text-align: center;
 }
 .afterheading {
 	text-align: center;
+}
+.footer {
+	text-align: center;
+}
+a {
+	color: black;
+}
+address {
+	text-align: center;
+}
+#searchbox {
+	text-align: right;
+}
+#login {
+	text-align: right;
+}
+#mainphoto
+	{text-align: center;
 }
